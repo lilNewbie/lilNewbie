@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS and React.js.
 -  ✔ I have learnt Python, HTML and CSS, C, C++ and Java.
 - 🔺 I prefer coding using Python but C++ works too.
-- 💞️ I’m looking forward to expand my knowledge and work on projects
+- 💞️ I’m looking forward to expand my knowledge and work on projects.
  
 
 <!---
