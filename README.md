@@ -3,7 +3,7 @@
 - 🌱 Currently diving deep into Deep Learning🙃.
 -  ✔ Proficient in Python, C, C++ and Java.
 - 🔺 I prefer coding using Python but C++ works too.
-- 🧠 Knowledge of basic Web Development (HTML5, CSS and JS).
+- 🧠 Knowledge of Web Development (HTML5, CSS and JS) and have used the Flask framework too.
 - 💞️ I’m looking forward to expand my knowledge and work on projects and research internships.
  
 
