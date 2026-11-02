@@ -8,7 +8,8 @@ I'm a developer with a passion for building intelligent systems, from LLM-powere
 
 - 🧠 Diving deep into **Deep Learning** architectures, training pipelines and applied research
 - 🔬 Exploring **Causal Inference** and Bayesian modeling for real-world data problems
-- 🤖 Building practical **LLM-powered applications** using GPT and custom fine-tuned models
+- 🤖 Building **Agentic applications** using GPT and custom fine-tuned models
+- 🔎 Exploring AI Safety, one step at a time
 
 ---
 
