@@ -19,8 +19,6 @@ Previously a Student Research Assistant at **NYU Langone Health**, working on 3D
 
 **Agentic Security Analyst:** Automates vendor security questionnaire assessment. Ingests policy documents, extracts evidence with an LLM, and populates a knowledge graph of 53 rubrics across 14 security themes. Every cited span is mechanically validated as a verbatim substring of its source, so fabricated citations are structurally impossible. Append-only fact ledger with supersession; one LLM call site, everything else deterministic.
 
-**Multi-agent Equity Research Assistant:** Analyst/critic loop built with LangChain and LangGraph, where a critic agent challenges claims before they reach the report.
-
 **Regime-Filtered TSMOM:** Time-series momentum strategy gated by spectral regime detection (Welch PSD), with pre-registered parameters and out-of-sample validation.
 
 **Bayesian Credit Risk:** Causal identification via DAG, hierarchical PD model in PyMC, posterior predictive checks matching the observed 6.54% default rate.
